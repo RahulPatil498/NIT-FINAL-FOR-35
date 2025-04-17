@@ -1,0 +1,10 @@
+a = enter 100 comma-separated values (float)
+t = enter temperature of "a"(example: anything from 20 to 40 degrees)
+tn = 35 - t
+coe =  enter 100 coeffient comma-separated values(float)
+diff = coe* tn
+fin = a - diff (its the final result or normalized data at 35 degrees)
+
+
+
+
